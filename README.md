@@ -1,6 +1,6 @@
 # Zoya Siddiqui 🐈‍⬛
 
-💻 **`Computer Scientist and Avid Learning Enthusiast`** 📙
+**`Computer Scientist and Avid Learning Enthusiast`**
 
 ### About Me
 - I am a third year Computer Science Major at the University of Toronto Mississauga
