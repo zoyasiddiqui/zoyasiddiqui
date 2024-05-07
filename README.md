@@ -10,7 +10,11 @@
 - In my free time, I like to read, write, play minecraft, go on long walks and skateboard!
 
 ### Past, Present, and Future
+**In high school**,
 
+**Currently, in university**,
+
+**After university**,
 ---
 
 <!--
