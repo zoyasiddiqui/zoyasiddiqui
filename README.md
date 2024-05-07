@@ -8,6 +8,9 @@
 - I am a third year Computer Science Major at the University of Toronto Mississauga
 - My current favourite course is Software Tools and Systems, and my favourite assignment from within this course involved setting up a replica of the bash shell. You can find it here.
 - In my free time, I like to read, write, play minecraft, go on long walks and skateboard!
+- I am currently working on a productivity extension of Google Calendar, wherein a user can log the amount of time they spend working on something (categorized based off of their calendars). You can find it here.
+
+---
 
 ### Past, Present, and Future
 **In high school**,
