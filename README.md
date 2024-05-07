@@ -3,10 +3,11 @@
 **`Computer Scientist and Avid Learning Enthusiast`**
 
 ### About Me
+- I am a third year Computer Science Major at the University of Toronto Mississauga
+- My current favourite course is Software Tools and Systems, and my favourite assignment from within this course involved setting up a replica of the bash shell. You can find it here.
+- In my free time, I like to read, write, play minecraft, go on long walks and skateboard!
 
-### My Journey
-
-### Goals
+### Past, Present, and Future
 
 <!--
 **zoyasiddiqui/zoyasiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
