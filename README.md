@@ -2,6 +2,12 @@
 
 **`Computer Scientist and Avid Learning Enthusiast`**
 
+### About Me
+
+### My Journey
+
+### Goals
+
 <!--
 **zoyasiddiqui/zoyasiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
