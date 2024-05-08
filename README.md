@@ -17,7 +17,7 @@
 
 **Currently, in university**, I am working on learning as much as I possibly can. Though I have yet to pick a specific field, I find many concepts in Computer Science to be extremely fascinating. I have thoroughly enjoyed all of my math courses up to this point, and also loved taking *Data Structures and Algorithms*, despite its difficulty. So far, my favourite courses have been *Introduction to Software Design* and *Software Tools and Systems*, and learning Java and C has opened me up to the many, many possible projects I can make. 
 
-**After university**, I hope to pursue a technical field that I am really passionate about. Currently, I am still working on discovering which field may be best for me. I am fascinated by the world of AI and Machine Learning, but Information Security has also recently peaked my interest. At the moment, I am most intereted in Computer Vision and Computer Animation. 
+**After university**, I hope to pursue a technical field that I am really passionate about. Currently, I am still working on discovering which field may be best for me. I am fascinated by the world of AI and Machine Learning, but Information Security has also recently peaked my interest. At the moment, I am most interested in Computer Vision and Computer Animation. 
 
 <!--
 **zoyasiddiqui/zoyasiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
