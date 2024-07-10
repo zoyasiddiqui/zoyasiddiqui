@@ -9,7 +9,7 @@
 - My current favourite course is Software Tools and Systems, and my favourite assignment from within this course involved setting up a replica of the bash shell. 
 - In my free time, I like to read, write, play minecraft and skateboard!
 - I just finished up a productivity extension of Google Calendar, wherein a user can log the amount of time they spend working on something (categorized based off of their calendars). You can find it [here](https://github.com/zoyasiddiqui/Calendar-Productivity-Tracker.git).
-- I am currently working on a social media app for readers and authors, a cross between instagram and goodreads with some fun additional features. You can find it [here](https://github.com/zoyasiddiqui/Bookworms).
+- I am currently working on a social media app for readers and authors, a cross between instagram and goodreads with some fun additional features, with my good friend [Renee](https://github.com/renee-k) You can find it [here](https://github.com/zoyasiddiqui/Bookworms).
 
 ---
 
