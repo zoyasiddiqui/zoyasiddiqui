@@ -1,14 +1,11 @@
 # Zoya Siddiqui 🐈‍⬛
 
-**`Computer Scientist and Avid Learning Enthusiast`**
+**`Comp Sci @ UTM, SWD Intern @ AMD`**
 
 ---
 
 ### About Me
-- I am a third year Computer Science Specialist at the University of Toronto, Mississauga
-- My current favourite course is Software Tools and Systems, and my favourite assignment from within this course involved setting up a replica of the bash shell. 
-- I just finished up a productivity extension of Google Calendar, wherein a user can log the amount of time they spend working on something (categorized based off of their calendars). You can find it [here](https://github.com/zoyasiddiqui/Calendar-Productivity-Tracker.git).
-- I am currently working on a social media app for readers and authors, a cross between instagram and goodreads with some fun additional features, with my good friend [Renee](https://github.com/renee-k). You can find it [here](https://github.com/zoyasiddiqui/Bookworms).
+- Last April, I wrapped up my third year at UTM, doing a major in Computer Science. Currently, I am an intern at AMD on the Diagnostics Infrastructure and Automation CI team. 
 
 ---
 
