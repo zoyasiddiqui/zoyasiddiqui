@@ -5,7 +5,9 @@
 ---
 
 ### About Me
-- Last April, I wrapped up my third year at UTM, doing a major in Computer Science. Currently, I am an intern at AMD on the Diagnostics Infrastructure and Automation CI team. 
+- Last April, I wrapped up my third year at UTM, doing a major in Computer Science. Currently, I am an intern at AMD on the Diagnostics Infrastructure and Automation CI team.
+- Currently, I'm gaining hands on experience in continuous integration and automation, getting more comfortable working with and improving scalable systems, and improving my skills in collaborative engineering.
+- I'm also working on my personal website. In my free time, I love designing pretty websites and hopefully some day being able to add cool animations to them.
 
 ---
 
